@@ -14,7 +14,12 @@ Problem
      c. Python: Convert Python dataframe to lossless binary file (extremeley fast - mutithreaded)                       
      d. R: Read Python binary file into a R dataframe  (extremeley fast - mutithreaded)                                 
      e. R: Export R dataframe to SAS V5 transport                                                                       
-     f. SAS: Operate directly on the transport file (slight loss of precision - mainframe 8 byte exponent)              
+     f. SAS: Operate directly on the transport file (slight loss of precision - mainframe 8 byte exponent)   
+     
+github                                                                                                       
+https://tinyurl.com/y6hhmoon                                                                                 
+https://github.com/rogerjdeangelis/utl-python-panda-dataframes-to-R-dataframes-and-SAS-V5-xport-files        
+     
                                                                                                                         
 *_                   _                                                                                                  
 (_)_ __  _ __  _   _| |_                                                                                                
